@@ -1,0 +1,22 @@
+body{
+    font-family: Lato, sans-serif;
+    margin: 50px;
+    text-align: center;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+button {
+    cursor: pointer;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
